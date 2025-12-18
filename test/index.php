@@ -31,7 +31,7 @@ require_once 'includes/header.php';
             <div class="card">
                 <div class="card-icon">🌍</div>
                 <h3>Олон улсын хамтрагчид</h3>
-                <p>Хятад, Солонгос, Герман, Орос зэрэг улсын 100+ их сургуультай хамтран ажилладаг</p>
+                <p>Хятад, Солонгос, Герман, зэрэг улсын 100+ их сургуультай хамтран ажилладаг</p>
             </div>
             <div class="card">
                 <div class="card-icon">💰</div>
@@ -109,3 +109,4 @@ require_once 'includes/header.php';
 </section>
 
 <?php require_once 'includes/footer.php'; ?>
+
